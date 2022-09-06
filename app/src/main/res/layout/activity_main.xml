@@ -68,7 +68,7 @@
                 android:layout_height="70dp"
                 android:backgroundTint="#DA1414"
                 android:padding="0dp"
-                android:text="del"
+                android:text="clear"
                 android:textSize="10pt"
 
                 />
